@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Ger😋many",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Delicious food 😋",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "9844382345"
+    },
+    {
+      "cityName": "Bogota",
+      "country": "Colombia",
+      "emoji": "🇨🇴",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Delicious food 😋",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "984438283"
+    },
+    {
+      "id": "9111",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-19T19:23:51.518Z",
+      "notes": "Such a romantic city",
+      "position": {
+        "lat": "48.864714761802794",
+        "lng": "2.2412109375000004"
+      }
+    },
+    {
+      "id": "e52b",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-10-19T19:23:51.518Z",
+      "notes": "Not as many Italians as I expected",
+      "position": {
+        "lat": "41.88592102814744",
+        "lng": "12.4749755859375"
+      }
+    },
+    {
+      "id": "5550",
+      "cityName": "Vancouver",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-11-13T17:55:34.141Z",
+      "notes": "Fun Roadtrip with my bro",
+      "position": {
+        "lat": "49.27497287599639",
+        "lng": "-123.06335449218751"
+      }
+    },
+    {
+      "id": "a48f",
+      "cityName": "Kastela Bay",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-11-13T18:01:53.004Z",
+      "notes": "",
+      "position": {
+        "lat": "43.5326204268101",
+        "lng": "16.347656250000004"
+      }
+    }
+  ]
+}
