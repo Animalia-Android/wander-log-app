@@ -64,7 +64,7 @@ function Form() {
         } catch (error) {
           setGeocodingError(error.message);
         } finally {
-          setIsLoadingGeocoding(true);
+          // setIsLoadingGeocoding(true);
           setIsLoadingGeocoding(false);
         }
       }

@@ -1,4 +1,8 @@
 /* eslint-disable react/prop-types */
+import { useEffect, useState } from 'react';
+import { useCities } from '../contexts/CitiesContext';
+import { useGeolocation } from '../hooks/useGeolocation';
+import { useUrlPosition } from '../hooks/useUrlPosition';
 import { useNavigate } from 'react-router-dom';
 import {
   MapContainer,
@@ -8,10 +12,6 @@ import {
   useMap,
   useMapEvents,
 } from 'react-leaflet';
-import { useEffect, useState } from 'react';
-import { useCities } from '../contexts/CitiesContext';
-import { useGeolocation } from '../hooks/useGeolocation';
-import { useUrlPosition } from '../hooks/useUrlPosition';
 
 import Button from './Button';
 
@@ -26,9 +26,6 @@ function Map() {
     getPosition,
   } = useGeolocation();
 
-  // const [searchParams] = useSearchParams();
-  // const mapLat = searchParams.get('lat');
-  // const mapLng = searchParams.get('lng');
   const [mapLat, mapLng] = useUrlPosition();
 
   useEffect(
@@ -56,7 +53,6 @@ function Map() {
       <MapContainer
         className={styles.map}
         center={mapPosition}
-        // center={[mapLat, mapLng]}
         zoom={6}
         scrollWheelZoom={true}
       >
@@ -93,7 +89,6 @@ function DetectClick() {
 
   useMapEvents({
     click: (e) => {
-      console.log('EVENT :', e);
       navigate(`form?lat=${e.latlng.lat}&lng=${e.latlng.lng}`);
     },
   });

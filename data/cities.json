@@ -1,111 +1,87 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "id": "0b4f",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-04-03T15:56:35.260Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Ger😋many",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Delicious food 😋",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "9844382345"
-    },
-    {
-      "cityName": "Bogota",
-      "country": "Colombia",
-      "emoji": "🇨🇴",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Delicious food 😋",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "984438283"
-    },
-    {
-      "id": "9111",
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-10-19T19:23:51.518Z",
-      "notes": "Such a romantic city",
-      "position": {
-        "lat": "48.864714761802794",
-        "lng": "2.2412109375000004"
+        "lat": "48.850258199721495",
+        "lng": "2.3510742187500004"
       }
     },
     {
-      "id": "e52b",
+      "id": "3d11",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-04-03T15:57:04.301Z",
+      "notes": "",
+      "position": {
+        "lat": "52.50721006978328",
+        "lng": "13.404006958007814"
+      }
+    },
+    {
+      "id": "7404",
       "cityName": "Rome",
       "country": "Italy",
       "emoji": "🇮🇹",
-      "date": "2024-10-19T19:23:51.518Z",
-      "notes": "Not as many Italians as I expected",
+      "date": "2025-04-03T15:57:23.115Z",
+      "notes": "",
       "position": {
-        "lat": "41.88592102814744",
-        "lng": "12.4749755859375"
+        "lat": "41.89417942140793",
+        "lng": "12.483665943145754"
       }
     },
     {
-      "id": "5550",
+      "id": "cd3f",
+      "cityName": "Bogota",
+      "country": "Colombia",
+      "emoji": "🇨🇴",
+      "date": "2025-04-03T15:57:40.995Z",
+      "notes": "",
+      "position": {
+        "lat": "4.693115148651393",
+        "lng": "-74.07677650451662"
+      }
+    },
+    {
+      "id": "5e0b",
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-03T19:22:59.560Z",
+      "notes": "",
+      "position": {
+        "lat": "41.37978725275483",
+        "lng": "2.1771383285522465"
+      }
+    },
+    {
+      "id": "9ac3",
+      "cityName": "Ciudad Rio Bravo",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2025-04-03T19:24:17.421Z",
+      "notes": "",
+      "position": {
+        "lat": "26.05407688829851",
+        "lng": "-97.95219384133817"
+      }
+    },
+    {
+      "id": "662d",
       "cityName": "Vancouver",
       "country": "Canada",
       "emoji": "🇨🇦",
-      "date": "2024-11-13T17:55:34.141Z",
-      "notes": "Fun Roadtrip with my bro",
-      "position": {
-        "lat": "49.27497287599639",
-        "lng": "-123.06335449218751"
-      }
-    },
-    {
-      "id": "a48f",
-      "cityName": "Kastela Bay",
-      "country": "Croatia",
-      "emoji": "🇭🇷",
-      "date": "2024-11-13T18:01:53.004Z",
+      "date": "2025-04-03T19:24:53.104Z",
       "notes": "",
       "position": {
-        "lat": "43.5326204268101",
-        "lng": "16.347656250000004"
+        "lat": "49.25765230813895",
+        "lng": "-123.11126947402956"
       }
     }
   ]
